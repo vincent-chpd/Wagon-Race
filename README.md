@@ -6,10 +6,10 @@ The goal here is to learn more about JavaScript, the DOM, and asynchronous event
 
 ![](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/wagon_race.gif)
 
-### Setup
+### Let's play!
 
-Let's launch a local webserver by running:
+Copy paste the URL below into your browser
 
-```bash
-serve
+```link
+https://vincent-chpd.github.io/Wagon-Race/
 ```
